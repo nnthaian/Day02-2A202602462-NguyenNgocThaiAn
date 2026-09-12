@@ -1,1 +1,1 @@
-# Day02-2A202602462-NguyenNgocThaiAn
+# Day 2 Lab 2
