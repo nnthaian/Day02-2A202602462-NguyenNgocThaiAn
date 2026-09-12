@@ -25,7 +25,7 @@
 | 2 | Tốn thời gian | Đọc JD tập trung nhiều vào phần Requirement, ít quan tâm phần Description/Responsibilities vì nghĩ đã match chuyên ngành | Bản thân | 30% trường hợp dù pass CV + phỏng vấn nhưng đến vòng test mới nhận ra công việc không hợp với định hướng hiện tại |
 | 3 | AI có thể tốt hơn | Không có bước tóm tắt JD đầy đủ (cả Requirement lẫn Description) rồi so với CV/kỳ vọng bản thân trước khi quyết định apply | Bản thân | Hệ quả trực tiếp của dòng #2: 30% mismatch phát hiện muộn (ở vòng test) thay vì phát hiện sớm (ở bước đọc JD) |
 | 4 | AI có thể tốt hơn| Trả lời phỏng vấn behavioral (kiểu STAR) dựa trên kinh nghiệm project — chưa rõ hiện đang chuẩn bị thế nào| Bản thân | Program Vinamilk: 10 câu xử lý tình huống theo góc nhìn 1 vị trí. Khó nhất ở chỗ không đoán được nhà tuyển dụng đang chấm điểm dựa trên tiêu chí gì |
-| 5 | Pain từ chính mình (thói quen) | Theo dõi trạng thái apply (8 job + 2 program) bằng note tay/trí nhớ vì thấy Notion/Excel mất thời gian, không quen dùng | Bản thân | Từng 2 lần quên deadline của chương trình trại hè vì lịch học quá bận|
+| 5 | Pain từ chính mình (thói quen) | Theo dõi trạng thái apply bằng note tay/trí nhớ vì thấy Notion/Excel mất thời gian, không quen dùng | Bản thân | Từng 2 lần quên deadline của chương trình trại hè vì lịch học quá bận|
 | 6 | AI có thể tốt hơn| Chủ động tra Glassdoor trước khi phỏng vấn nhưng thông tin review quá ít/chưa cập nhật, không phản ánh được tình hình thực tế công ty tại thời điểm apply | Bản thân | 1 case cụ thể: đã chủ động search Glassdoor trước phỏng vấn, không thấy cảnh báo gì → sau phỏng vấn mới biết (qua người quen nội bộ) công ty đang nợ lương/chậm lương/không giao task|
 
 
@@ -37,9 +37,9 @@
 - Ý bỏ vì không phải pain thật: Ban đầu định thêm dòng "các bẫy trong JD" dựa trên cảnh báo thấy trên mạng (secondary info, không phải trải nghiệm cá nhân) — sau đó sửa lại thành case thật của bản thân (#6)
 
 **Self-check Phase 1:**
-- [ ] Đủ 5+ dòng, mỗi dòng có actor + số đo cụ thể
-- [ ] Dùng ít nhất 3/4 lăng kính
-- [ ] Không có dòng chung chung kiểu "mất nhiều thời gian"
+- [x] Đủ 5+ dòng, mỗi dòng có actor + số đo cụ thể
+- [x] Dùng ít nhất 3/4 lăng kính
+- [x] Không có dòng chung chung kiểu "mất nhiều thời gian"
 
 ---
 
@@ -47,99 +47,106 @@
 
 ### 2.1. Chọn top 3
 
-Giữ bài nào: actor cụ thể, workflow vẽ được 3-7 bước, bottleneck ở 1 bước, impact đo được. Loại bài quá rộng.
-
 | Rank | Problem (copy từ bảng scan) | Vì sao chọn (2-3 ý) | Điều còn chưa chắc |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+| 1 | Lọc/đối chiếu JD trước khi apply | Impact đo được rõ nhất, bottleneck nằm gọn ở 1 bước là đọc JD, workflow vẽ được dễ dàng | Chưa biết chính xác trong những lần apply có bao nhiêu lần rơi vào mismatch |
+| 2 | Trả lời SJT theo competency ẩn | Vấn đề không nằm ở việc không biết trả lời mà là không giải mã được tiêu chí chấm điểm. Có case cụ thể như khi ứng cử viên làm bài test của program Vinamilk | Chưa rõ liệu các công ty/chương trình khác có cùng dạng SJT không, hay đây là case riêng của 1-2 chương trình |
+| 3 | Tailor CV cho từng job/program | Số liệu định lượng mạnh nhất và dễ verify (10 lần, 20-30p/lần), pain lặp lại đều đặn mỗi lần apply | Chưa chắc 20-30 phút là do thiếu công cụ hay do quy trình cá nhân chưa tối ưu |
 
-### 2.2. Problem Cards chi tiết (lặp lại cho cả 3 cards)
+### 2.2. Problem Cards chi tiết
 
 ---
 
-#### Problem Card #1 — [Tên problem]
+#### Problem Card #1 — Lọc & đối chiếu JD trước khi apply
 
 ```text
 Problem 1 câu:
+Một số sinh viên khi apply job chỉ đọc phần Requirement của JD, bỏ qua Description/Responsibilities, dẫn đến apply nhầm job không khớp kỳ vọng bản thân, chỉ phát hiện ra ở vòng test.
 
 Actor:
+Sinh viên đang chủ động apply việc
 
 Thời điểm / bối cảnh:
+Giai đoạn tìm việc sau tốt nghiệp, khi lướt nhiều JD trên các platform tuyển dụng trong thời gian ngắn, ưu tiên tốc độ hơn độ kỹ
 
-Current workflow 3-7 bước:
-1.
-2.
-3.
-4.
-5.
+Current workflow:
+1. Tìm JD trên platform tuyển dụng (LinkedIn, TopCV, hay group FB)
+2. Đọc lướt phần Requirement — thấy khớp chuyên ngành/kỹ năng → quyết định apply
+3. Chỉnh CV theo JD, nộp đơn
+4. Qua vòng CV, phỏng vấn trực tiếp/online
+5. Làm bài test/vòng đánh giá thực tế của công việc
+6. Có khả năng nhận ra: Nội dung công việc thực tế phản ánh qua bài test không khớp như mình nghĩ
 
 Bottleneck:
+Bước 2 — đọc JD chỉ tập trung Requirement, không đối chiếu đầy đủ Description/Responsibilities với kỳ vọng bản thân trước khi quyết định apply
 
 Impact:
+Tốn công apply + chuẩn bị phỏng vấn + làm test cho job không phù hợp (mỗi lần tốn ít nhất vài giờ tổng cộng cho các bước 3-5)
 
 Success metric:
+Giảm tỷ lệ mismatch phát hiện muộn (ở vòng test) xuống dưới 10%, tức là phát hiện được sự không khớp ngay từ bước đọc JD (bước 2) thay vì bước 5
 
 Non-AI alternative:
+Tự đặt checklist cá nhân (5-7 câu hỏi cố định) để tự trả lời trước khi apply mỗi JD, ví dụ như công việc hằng ngày thực chất là gì hay có đúng công nghệ/kỹ năng mình muốn
+phát triển không.
 
 AI hypothesis:
+AI đọc toàn bộ JD (không chỉ Requirement), tóm tắt lại thành: (a) yêu cầu thực sự,
+(b) công việc hằng ngày cụ thể, (c) so sánh nhanh với CV/kỳ vọng bản thân, (d) gắn cờ
+cảnh báo nếu có điểm mơ hồ hoặc không khớp.
 
 Quick gut:
 [ ] No AI / process fix
+[x] Workflow
 [ ] Rule
-[ ] Workflow
 [ ] Agent
 [ ] Chưa biết
 ```
 
-**Draft workflow Card #1** (ASCII / Mermaid / ảnh đính kèm):
+**Draft workflow Card #1:**
 
-```text
-CURRENT STATE — ___ phút
-
-[1 ...: __'] → [2 ...: __'] → [3 ...: __'] → [4 ...: __']  <-- bottleneck
-
-FUTURE STATE — ___ phút
-
-[1 ...: __'] → [2 ...: __'] → [3 ... review: __']  <-- human boundary
-
-Fallback: nếu AI sai thì ...
-```
-
-File đính kèm (nếu vẽ riêng): `01-individual-problem-scan-workflow-card-1.png`
+![Workflow Card #1](01-individual-problem-scan-workflow-card-1.png)
 
 ---
 
-#### Problem Card #2 — [Tên problem]
+#### Problem Card #2 — Trả lời SJT theo competency ẩn
 
 ```text
 Problem 1 câu:
+Khi làm bài test tình huống (SJT) trong vòng đánh giá của chương trình tuyển dụng, fresh grad không biết nhà tuyển dụng đang chấm điểm dựa trên tiêu chí/competency nào, dẫn đến trả lời theo cảm tính thay vì có khung tham chiếu.
 
 Actor:
+Sinh viên tham gia chương trình tuyển dụng có vòng test tình huống (VD: Management Trainee)
 
 Thời điểm / bối cảnh:
+Vòng test online của chương trình, sau khi đã qua vòng CV, thường có giới hạn thời gian làm bài
 
-Current workflow 3-7 bước:
-1.
-2.
-3.
-4.
-5.
+Current workflow:
+1. Nhận đề bài SJT — mỗi câu mô tả 1 tình huống + yêu cầu nhập vai 1 vị trí cụ thể
+2. Đọc tình huống, cố hiểu ngữ cảnh
+3. Tự đoán "câu trả lời đúng" nên là gì mà không có khung tham chiếu rõ ràng
+4. Viết câu trả lời theo cảm tính/trực giác
+5. Lặp lại cho 10 câu, không biết mình đang bị đánh giá điểm mạnh/yếu nào
 
 Bottleneck:
+Bước 3 — không giải mã được competency ẩn (leadership, teamwork, ra quyết định...) mà câu hỏi đang nhắm tới, nên không có cơ sở để chọn hướng trả lời phù hợp
 
 Impact:
+Chương trình Vinamilk: 10 câu tình huống mỗi lần test — toàn bộ 10 câu đều bị ảnh hưởng bởi việc thiếu khung tham chiếu này (không phải lỗi rải rác mà là lỗi hệ thống
+trong cách tiếp cận)
 
 Success metric:
+Trước khi trả lời mỗi câu, xác định được rõ 1-2 competency chính đang được test, từ đó trả lời có định hướng thay vì đoán mò
 
 Non-AI alternative:
+Tự nghiên cứu trước các khung competency phổ biến trong tuyển dụng và luyện tập nhận diện qua các bộ câu hỏi SJT mẫu có sẵn trên mạng
 
 AI hypothesis:
+AI phân tích cấu trúc câu hỏi SJT (dựa trên các mẫu SJT phổ biến), gợi ý competency khả năng cao đang được nhắm tới, kèm 1 khung trả lời gợi ý (không đưa đáp án có sẵn, mà đưa "lăng kính" để tự trả lời cho đúng hướng)
 
 Quick gut:
 [ ] No AI / process fix
-[ ] Rule
+[x] Rule
 [ ] Workflow
 [ ] Agent
 [ ] Chưa biết
@@ -147,99 +154,85 @@ Quick gut:
 
 **Draft workflow Card #2:**
 
-```text
-CURRENT STATE — ___ phút
-
-[1 ...] → [2 ...] → [3 ...]  <-- bottleneck
-
-FUTURE STATE — ___ phút
-
-[1 ...] → [2 ...] → [3 ... review]  <-- human boundary
-
-Fallback: ...
-```
-
-File đính kèm: `01-individual-problem-scan-workflow-card-2.png`
+![Workflow Card #2](01-individual-problem-scan-workflow-card-2.png)
 
 ---
 
-#### Problem Card #3 — [Tên problem]
+#### Problem Card #3 — Tailor CV cho từng job/program
 
 ```text
 Problem 1 câu:
+Sinh viên thường mất 20-30 phút mỗi lần chỉnh sửa lại CV cho khớp từng JD cụ thể, lặp lại đều đặn với mỗi lần apply.
 
 Actor:
+Sinh viên đang trong giai đoạn apply nhiều job/program cùng lúc
 
 Thời điểm / bối cảnh:
+Tháng cao điểm apply việc, khi cần nộp đơn cho nhiều vị trí khác nhau trong thời gian ngắn
 
-Current workflow 3-7 bước:
-1.
-2.
-3.
-4.
-5.
+Current workflow:
+1. Đọc JD, xác định từ khóa/kỹ năng cần nhấn mạnh
+2. Mở file CV gốc (master CV)
+3. Chỉnh sửa thứ tự, từ ngữ, nhấn mạnh kinh nghiệm/skill cho khớp JD
+4. Kiểm tra lại format, chính tả
+5. Xuất file PDF, nộp đơn
 
 Bottleneck:
+Bước 3 — chỉnh sửa thủ công từng phần nội dung CV để khớp JD, không có template/hệ thống hỗ trợ nên phải làm lại gần như từ đầu mỗi lần
 
 Impact:
+Nếu 10 lần chỉnh CV/tháng, mỗi lần 20-30 phút thì tổng thời gian cần dùng khoảng 3.5-5 giờ/tháng chỉ để tailor CV, chưa tính thời gian cho cover letter (nếu có).
 
 Success metric:
+Giảm thời gian tailor CV mỗi lần xuống dưới 10 phút, tổng thời gian/tháng giảm còn dưới 1.5-2 giờ
 
 Non-AI alternative:
+Chuẩn bị sẵn 2-3 phiên bản CV theo nhóm ngành/vị trí để giảm số lần chỉnh từ đầu
 
 AI hypothesis:
+AI đọc JD + CV master, tự động gợi ý phần nào cần nhấn mạnh/sắp xếp lại, sinh ra bản draft CV đã điều chỉnh để người dùng chỉ cần review và tinh chỉnh nhẹ thay vì viết lại từ đầu
 
 Quick gut:
 [ ] No AI / process fix
 [ ] Rule
-[ ] Workflow
+[x] Workflow
 [ ] Agent
 [ ] Chưa biết
 ```
 
 **Draft workflow Card #3:**
 
-```text
-CURRENT STATE — ___ phút
-
-[1 ...] → [2 ...] → [3 ...]  <-- bottleneck
-
-FUTURE STATE — ___ phút
-
-[1 ...] → [2 ...] → [3 ... review]  <-- human boundary
-
-Fallback: ...
-```
-
-File đính kèm: `01-individual-problem-scan-workflow-card-3.png`
+![Workflow Card #3](01-individual-problem-scan-workflow-card-3.png)
 
 ---
 
-### 2.3. Card muốn pitch nhất (chuẩn bị 2 phút)
+### 2.3. Card muốn pitch nhất
 
 **Card tôi muốn pitch nhất:**
+Problem Card #1 — Lọc & đối chiếu JD trước khi apply
 
-```text
 
-```
+**Vì sao (2-3 câu):**
+Đây là bottleneck ở đầu funnel apply — nếu giải quyết được, sẽ giảm được lãng phí
+công sức ở tất cả các bước phía sau (phỏng vấn, làm test) cho những job không thực
+sự phù hợp. Impact đo được rõ ràng: 30% trong 10 lần apply gần nhất bị phát hiện
+mismatch muộn, nghĩa là gần 1/3 công sức apply có thể đã bị đặt sai chỗ ngay từ đầu.
 
-**Vì sao (2-3 câu: workflow gì, số đo gì, impact gì):**
+**Câu hỏi tôi muốn nhóm challenge:**
 
-```text
-
-```
-
-**Câu hỏi tôi muốn nhóm challenge (1-2 câu hỏi đúng chỗ yếu):**
-
-```text
-
-```
+1. Làm sao AI phân biệt được đâu là "mismatch thật" (công việc không phù hợp) và
+   đâu là "JD mô tả mơ hồ, tự công ty cũng chưa rõ vị trí cần gì" — 2 trường hợp
+   này cần cách xử lý khác nhau?
+2. Nếu tóm tắt JD của AI giúp người dùng loại bỏ sớm 1 job, làm sao chắc chắn AI
+   không loại nhầm những job thực ra vẫn phù hợp (false negative)?
 
 **AI phản biện Card (nếu có):**
-- Điểm yếu AI chỉ ra:
-- Tôi sửa gì:
+- Điểm yếu AI chỉ ra: Con số "30% mismatch" hiện tại chỉ là ước tính cá nhân, chưa
+  đếm lại chính xác trong 10 lần apply gần nhất có bao nhiêu case cụ thể
+- Tôi sửa gì: Cần liệt kê lại chính xác 8 job + 2 program đã apply, đánh dấu case
+  nào thực sự rơi vào mismatch trước khi trình bày số liệu này khi pitch
 
 ### Self-check nộp phần 01
-- [ ] Có 5+ problems + top 3 Cards đủ field
-- [ ] Mỗi Card có workflow trước/sau + bottleneck + metric + fallback
-- [ ] Đã chọn 1 card pitch + câu hỏi challenge
+- [x] Có 5+ problems + top 3 Cards đủ field
+- [x] Mỗi Card có workflow trước/sau + bottleneck + metric + fallback
+- [x] Đã chọn 1 card pitch + câu hỏi challenge
